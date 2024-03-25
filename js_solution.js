@@ -60,6 +60,6 @@ console.log(
   ])
 );
 
-console.log(findWords("ooo", ["oo", "ooo", "good"]));
+console.log(findWords("ooo", ["oo", "ooo", "oooo", "good"]));
 
 console.log(findWords("o", ["oo", "ooo", "good"]));

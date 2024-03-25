@@ -4,13 +4,20 @@ For convenience, I have put the test cases within the same file as the functions
 
 To run the code:
 
-1. Compile the TypeScript code with the `--target` flag set to `es6`:
+1. Compile the TypeScript code with the `--target` flag set to `es6`:  
    `tsc --target es6 index.ts`
 
-2. Run the compiled code:
+2. Run the compiled code:  
    `node index.js`
 
-To run the js solution, simply run: `node js_solution.js`
+The expected output:  
+[ 'ate', 'eat', 'tea' ]
+[ 'dog', 'do', 'god', 'goo', 'go', 'good' ]  
+[ 'oo', 'ooo' ]  
+[]
+
+(Optional) To run the js solution, simply run:  
+`node js_solution.js`
 
 My solution consists 3 functions:
 
