@@ -10,6 +10,8 @@ To run the code:
 2. Run the compiled code:
    `node index.js`
 
+To run the js solution, simply run: `node js_solution.js`
+
 My solution consists 3 functions:
 
 1. `findWords`: the main function used to iterate over an input array and filter it using the `canBeFormed` function.
